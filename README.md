@@ -1,1 +1,1 @@
-https://EugeneKovgan/webdev/index.html
+https://EugeneKovgan.github.io/webdev/index.html
